@@ -1,0 +1,11 @@
+C:\Users\Parsa\Desktop\EnglishLinkingWords\EnglishLinkingWords\bin\Debug\netcoreapp2.1\EnglishLinkingWords.deps.json
+C:\Users\Parsa\Desktop\EnglishLinkingWords\EnglishLinkingWords\bin\Debug\netcoreapp2.1\EnglishLinkingWords.runtimeconfig.json
+C:\Users\Parsa\Desktop\EnglishLinkingWords\EnglishLinkingWords\bin\Debug\netcoreapp2.1\EnglishLinkingWords.runtimeconfig.dev.json
+C:\Users\Parsa\Desktop\EnglishLinkingWords\EnglishLinkingWords\bin\Debug\netcoreapp2.1\EnglishLinkingWords.dll
+C:\Users\Parsa\Desktop\EnglishLinkingWords\EnglishLinkingWords\bin\Debug\netcoreapp2.1\EnglishLinkingWords.pdb
+C:\Users\Parsa\Desktop\EnglishLinkingWords\EnglishLinkingWords\obj\Debug\netcoreapp2.1\EnglishLinkingWords.csprojAssemblyReference.cache
+C:\Users\Parsa\Desktop\EnglishLinkingWords\EnglishLinkingWords\obj\Debug\netcoreapp2.1\EnglishLinkingWords.csproj.CoreCompileInputs.cache
+C:\Users\Parsa\Desktop\EnglishLinkingWords\EnglishLinkingWords\obj\Debug\netcoreapp2.1\EnglishLinkingWords.AssemblyInfoInputs.cache
+C:\Users\Parsa\Desktop\EnglishLinkingWords\EnglishLinkingWords\obj\Debug\netcoreapp2.1\EnglishLinkingWords.AssemblyInfo.cs
+C:\Users\Parsa\Desktop\EnglishLinkingWords\EnglishLinkingWords\obj\Debug\netcoreapp2.1\EnglishLinkingWords.dll
+C:\Users\Parsa\Desktop\EnglishLinkingWords\EnglishLinkingWords\obj\Debug\netcoreapp2.1\EnglishLinkingWords.pdb
