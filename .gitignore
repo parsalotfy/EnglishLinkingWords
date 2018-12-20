@@ -1,0 +1,6 @@
+# Build results
+*.dll
+*.pdb
+*.cache
+*.props
+project.assets.json
